@@ -33,13 +33,13 @@
 ## 📸 Screenshots
 
 ### 🏠 Hero Section
-![Hero Page](./public/hero.png)
+![Hero Page](./public/Hero.png)
 
 ### 👨‍💻 Developers Section
-![Developers](./public/developers.png)
+![Developers](./public/Developers.png)
 
 ### 🧱 Tech Stack Display
-![Tech Stack](./public/techstack.png)
+![Tech Stack](./public/Techtack.png)
 
 ### 📝 Signup Page
 ![Signup Page](./public/signup.png)
