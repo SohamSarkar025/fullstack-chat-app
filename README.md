@@ -38,7 +38,7 @@
 ![Developers](frontend/public/Developers.png)
 
 ### 🧱 Tech Stack Display
-![Tech Stack](frontend/public/Techstack.png)
+![Tech Stack](frontend/public/TechStack.png)
 
 ### 📝 Signup Page
 ![Signup](frontend/public/SignUp.png)
@@ -48,9 +48,10 @@
 
 ### 💬 Home - Chat Interface
 ![Home](frontend/public/Home.png)
+![Chat](frontend/public/Chat.png)
 
 ### ⚙️ Settings Page
-![Settings](frontend/public/Settings.png)
+![Settings](frontend/public/Themes.png)
 
 ### 🙍‍♂️ Profile Page
 ![Profile](frontend/Profile.png)
