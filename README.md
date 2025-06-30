@@ -17,9 +17,13 @@
 - ⏰ **Timestamps** for each message
 - 🌈 **Interactive UI** and **Error/Success Toasts** using **React-Toastify**
 - 📱 Fully Responsive Design (Mobile-First)
+  
+---
 
 ## 🔗 Live Demo
 🚀 Check out the live app here: [Talkify – Live Chat App](https://talkify-pvdl.onrender.com/)
+
+---
 
 ## 🛠️ Tech Stack
 
