@@ -81,7 +81,7 @@ const LandingPage = () => {
           <h3 className="text-3xl font-bold mb-12">Meet the Developers</h3>
           <div className="flex flex-wrap justify-center gap-8">
             {[
-              { name: "Soham Sarkar", role: "Frontend & UX Designer", img: "https://randomuser.me/api/portraits/men/1.jpg" },
+              { name: "Soham Sarkar", role: "Backend & UX Designer", img: "https://randomuser.me/api/portraits/men/1.jpg" },
               { name: "Ramkrishna Patra", role: "Backend Engineer", img: "https://randomuser.me/api/portraits/men/2.jpg" },
               { name: "Ankan Das", role: "Backend Developer", img: "https://randomuser.me/api/portraits/men/3.jpg" },
               { name: "Abhijit Dey", role: "Frontend Developer", img: "https://randomuser.me/api/portraits/men/4.jpg" },
