@@ -29,30 +29,30 @@
 
 ---
 
-## 🖼️ Screenshots
 ## 📸 Screenshots
 
 ### 🏠 Hero Section
-![Hero Page](./public/Hero.png)
+![Hero](frontend/Hero.png)
 
 ### 👨‍💻 Developers Section
-![Developers](./public/Developers.png)
+![Developers](frontend/Developers.png)
 
 ### 🧱 Tech Stack Display
-![Tech Stack](./public/Techtack.png)
+![Tech Stack](frontend/Techstack.png)
 
 ### 📝 Signup Page
-![Signup Page](./public/signup.png)
+![Signup](frontend/SignUp.png)
 
 ### 🔐 Login Page
-![Login Page](./public/login.png)
+![Login](frontend/Login.png)
 
 ### 💬 Home - Chat Interface
-![Home Chat Page](./public/home.png)
+![Home](frontend/Home.png)
 
-### ⚙️ Settings Page (Theme Switcher)
-![Settings Page](./public/settings.png)
+### ⚙️ Settings Page
+![Settings](frontend/Settings.png)
 
 ### 🙍‍♂️ Profile Page
-![Profile Page](./public/profile.png)
+![Profile](frontend/Profile.png)
+
 
