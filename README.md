@@ -32,7 +32,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Hero Section
-![Hero](frontend/Hero.png)
+![Hero](frontend/public/Hero.png)
 
 ### 👨‍💻 Developers Section
 ![Developers](frontend/Developers.png)
