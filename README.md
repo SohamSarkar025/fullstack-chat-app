@@ -35,22 +35,22 @@
 ![Hero](frontend/public/Hero.png)
 
 ### 👨‍💻 Developers Section
-![Developers](frontend/Developers.png)
+![Developers](frontend/public/Developers.png)
 
 ### 🧱 Tech Stack Display
-![Tech Stack](frontend/Techstack.png)
+![Tech Stack](frontend/public/Techstack.png)
 
 ### 📝 Signup Page
-![Signup](frontend/SignUp.png)
+![Signup](frontend/public/SignUp.png)
 
 ### 🔐 Login Page
-![Login](frontend/Login.png)
+![Login](frontend/public/Login.png)
 
 ### 💬 Home - Chat Interface
-![Home](frontend/Home.png)
+![Home](frontend/public/Home.png)
 
 ### ⚙️ Settings Page
-![Settings](frontend/Settings.png)
+![Settings](frontend/public/Settings.png)
 
 ### 🙍‍♂️ Profile Page
 ![Profile](frontend/Profile.png)
