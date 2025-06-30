@@ -54,6 +54,6 @@
 ![Settings](frontend/public/Themes.png)
 
 ### 🙍‍♂️ Profile Page
-![Profile](frontend/Profile.png)
+![Profile](frontend/public/Profile.png)
 
 
